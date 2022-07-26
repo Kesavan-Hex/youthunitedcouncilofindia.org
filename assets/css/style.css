@@ -38232,4 +38232,14 @@ footer.bg-dark.angled.lower-start:after,
 footer.bg-dark.angled.upper-start:before {
   border-left-color: #21262c !important;
 }
-/*# sourceMappingURL=style.css.map */
+
+/* Twitter scroller*/
+
+div.ex3 {
+  background-color: lightblue;
+  width: 100%;
+  height: 750px;
+  align-self: start;
+  overflow: auto;
+}
+/*# sourcecoders.in */
